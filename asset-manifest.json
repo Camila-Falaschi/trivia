@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/app-toot-name/static/css/main.48ac4834.chunk.css",
+    "main.js": "/app-toot-name/static/js/main.88756d6c.chunk.js",
+    "main.js.map": "/app-toot-name/static/js/main.88756d6c.chunk.js.map",
+    "runtime-main.js": "/app-toot-name/static/js/runtime-main.64cdd275.js",
+    "runtime-main.js.map": "/app-toot-name/static/js/runtime-main.64cdd275.js.map",
+    "static/js/2.99ddf2e6.chunk.js": "/app-toot-name/static/js/2.99ddf2e6.chunk.js",
+    "static/js/2.99ddf2e6.chunk.js.map": "/app-toot-name/static/js/2.99ddf2e6.chunk.js.map",
+    "index.html": "/app-toot-name/index.html",
+    "precache-manifest.f3bb9d1be7d395434e967e40b5117f13.js": "/app-toot-name/precache-manifest.f3bb9d1be7d395434e967e40b5117f13.js",
+    "service-worker.js": "/app-toot-name/service-worker.js",
+    "static/css/main.48ac4834.chunk.css.map": "/app-toot-name/static/css/main.48ac4834.chunk.css.map",
+    "static/js/2.99ddf2e6.chunk.js.LICENSE.txt": "/app-toot-name/static/js/2.99ddf2e6.chunk.js.LICENSE.txt",
+    "static/media/couldBeBetter.gif": "/app-toot-name/static/media/couldBeBetter.30f7918f.gif",
+    "static/media/feedback0.gif": "/app-toot-name/static/media/feedback0.3c874ad3.gif",
+    "static/media/logoLogin.png": "/app-toot-name/static/media/logoLogin.bdd9b986.png",
+    "static/media/logoheader.png": "/app-toot-name/static/media/logoheader.bdc31309.png",
+    "static/media/superWin.gif": "/app-toot-name/static/media/superWin.ddaf06bd.gif",
+    "static/media/win3.gif": "/app-toot-name/static/media/win3.245d1cf8.gif",
+    "static/media/win4.gif": "/app-toot-name/static/media/win4.a9eba695.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64cdd275.js",
+    "static/js/2.99ddf2e6.chunk.js",
+    "static/css/main.48ac4834.chunk.css",
+    "static/js/main.88756d6c.chunk.js"
+  ]
+}
