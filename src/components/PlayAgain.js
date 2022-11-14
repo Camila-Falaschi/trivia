@@ -16,7 +16,7 @@ class PlayAgain extends React.Component {
   render() {
     const { redirect } = this.state;
     if (redirect) {
-      return <Redirect to="/" />;
+      return <Redirect to="/trivia" />;
     }
     return (
       <button
