@@ -35,7 +35,7 @@ class Game extends React.Component {
     const requestFailed = 3;
     const ultimaPergunta = 5;
     if (requestState === requestFailed) {
-      return <Redirect to="/" />;
+      return <Redirect to="/trivia" />;
     }
     if (currentQuestion === ultimaPergunta) {
       const { name, email, score, addAssertionsAction } = this.props;
@@ -48,7 +48,7 @@ class Game extends React.Component {
           JSON.stringify([...prevStorage, { email, score, name }]));
       }
       addAssertionsAction(assertions);
-      return <Redirect to="/feedback" />;
+      return <Redirect to="/trivia/feedback" />;
     }
     return (
       <div className="game-content">

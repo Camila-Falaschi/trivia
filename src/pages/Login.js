@@ -46,7 +46,7 @@ class Login extends React.Component {
       const { name, email } = this.state;
       dispatchLogin({ name, email });
       await localStorage.setItem('token', token);
-      history.push('/game');
+      history.push('/trivia/game');
     }
 
     render() {

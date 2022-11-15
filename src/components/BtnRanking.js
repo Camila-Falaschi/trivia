@@ -9,7 +9,7 @@ class BtnRanking extends React.Component {
         className="button-ranking"
         type="button"
         data-testid="btn-ranking"
-        onClick={ () => history.push('/ranking') }
+        onClick={ () => history.push('/trivia/ranking') }
       >
         Ranking
       </button>);

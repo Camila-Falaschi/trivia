@@ -18,8 +18,7 @@ class Feedback extends React.Component {
     const condition = 3;
     const message = (assertions >= condition ? 'Well Done!' : 'Could be better...');
     const imagesFeedback = [image0, image1, image1, image2, image3, image4];
-    console.log(imagesFeedback);
-    console.log(assertions);
+
     return (
       <div className="feedback-content">
         <Header />
